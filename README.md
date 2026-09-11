@@ -1,4 +1,14 @@
 ## Hi there 👋
+# Desafio de Projeto: Markdown no GitHub
+
+Este repositório foi desenvolvido para praticar colaboração e sintaxe Markdown na plataforma.
+
+## Sobre o Projeto
+* Um item de lista
+* Outro item de lista
+
+Texto com **negrito**, *itálico* e um trecho de código em linha: `git status`.
+
 
 <!--
 **deianerys-13/deianerys-13** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
